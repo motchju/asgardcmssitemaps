@@ -1,5 +1,5 @@
 {
-	"name": "sitemaps/sitemap",
+	"name": "asgardcms/sitemap",
     "type": "asgard-module",
 	"description": "Sitemaps generator for AsgardCms",
     "type": "asgard-module",
